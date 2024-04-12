@@ -28,9 +28,9 @@
 #include "hardware/gpio.h"
 
 
-#define _LS_POWER_PIN	13
-#define _KBD_DATA_PIN	11 // CLK == 12
-#define _MOUSE_DATA_PIN	14 // CLK == 15
+#define _LS_POWER_PIN	19
+#define _KBD_DATA_PIN	17 // CLK == 18
+#define _MOUSE_DATA_PIN	20 // CLK == 21
 
 
 u8 ph_g_ps2_kbd_leds = 0;

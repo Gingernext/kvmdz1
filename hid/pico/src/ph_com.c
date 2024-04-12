@@ -32,7 +32,7 @@
 #include "ph_com_uart.h"
 
 
-#define _USE_SPI_PIN 22
+#define _USE_SPI_PIN 14
 
 
 static bool _use_spi = true;
