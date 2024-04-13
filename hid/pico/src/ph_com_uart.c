@@ -29,7 +29,7 @@
 #include "ph_types.h"
 
 
-#define _BUS		uart1
+#define _BUS		uart0
 #define _SPEED		115200
 #define _RX_PIN		13
 #define _TX_PIN		12
