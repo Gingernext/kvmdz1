@@ -30,7 +30,7 @@
 #define _SPEED		3000000
 #define _RX_PIN		-1 // 1 - No stdin
 #define _TX_PIN		0
-#define _ACT_PIN	25
+#define _ACT_PIN	29
 
 
 void ph_debug_uart_init(void) {
