@@ -30,8 +30,8 @@
 #include "ph_types.h"
 
 
-#define _BUS		spi0
-#define _IRQ		SPI0_IRQ
+#define _BUS		spi1
+#define _IRQ		SPI1_IRQ
 #define _FREQ		(2 * 1000 * 1000)
 #define _CS_PIN		13
 #define _RX_PIN		12
